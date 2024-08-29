@@ -1,0 +1,6 @@
+[package]
+name = "exercise8-what-is-ownership"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
